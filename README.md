@@ -52,7 +52,7 @@ main()
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+Canyon[Canyon API](https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html)
 
 | Syntax      | Description |
 | ----------- | ----------- |

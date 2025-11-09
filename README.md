@@ -1,12 +1,12 @@
 # First-Ai-learning-project-
 
-# Painting 
+# Cyclo-cross bike racing
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+ Ultimate cyclocross guide: All you need to know about cyclocross racing 
 
 
 ## Background
@@ -21,38 +21,42 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Bikes, races, mud and madness: that’s cyclocross racing. Learn about the sport, its roots, training strategies and pro tips from Canyon athletes to ride like a champion. 
+
+What is cyclocross racing?
+
+Cyclocross – shortened to CX or cross – is an offroad form of bike racing, often described as a mix of road cycling, mountain biking and steeplechase.  
+
+The sport sees participants take on a closed-circuit mixed terrain course, typically 1-3km long, in a race that lasts 30 minutes to an hour. 
+
+Cyclocross races emphasise high-intensity effort and skills beyond simple bike handling. With their sharp turns, hurdles, tree roots and obstacles, multi-terrain course conditions force riders to dismount and carry their bikes on hill climbs and wooded trails.  
+
+Adding to the challenge, races generally take place in autumn or winter—strong winds, rainfall and muddy courses are all part of the fun! 
+
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![bicycle ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVT73k7QxOEVBIm8uWAuF-FHLu8DqVfUj8n25BC_6ZEb3BUQC_OXU8po&s=10)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVT73k7QxOEVBIm8uWAuF-FHLu8DqVfUj8n25BC_6ZEb3BUQC_OXU8po&s=10" width="300">
 
 This is how you create code examples:
 ```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
+print("Hello World")
 
 main()
-```
-
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+Canyon[Canyon API](https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html)
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -73,5 +77,6 @@ How could your project grow and become something even more? What kind of skills,
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+  <br>: [Bicycle by Kimberly Hobson Published: Aug 27, 2024 https://https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html
+File:.Bicycle by Kimberly Hobson Published: Aug 27, 2024#filelinks) / [CC BY 2.0[]()](https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html)
 * etc

@@ -32,6 +32,9 @@ If you need to resize images, you have to use an HTML tag, like this:
 
 This is how you create code examples:
 ```
+
+print("Hello World")
+
 main()
 class HelloWorld {
     public static void main(String[] args) {

@@ -1,12 +1,12 @@
 # First-Ai-learning-project-
 
-# Painting 
+# Cyclo-cross bike racing
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+ Ultimate cyclocross guide: All you need to know about cyclocross racing 
 
 
 ## Background
@@ -21,7 +21,7 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Bikes, races, mud and madness: that’s cyclocross racing. Learn about the sport, its roots, training strategies and pro tips from Canyon athletes to ride like a champion. 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -66,5 +66,6 @@ How could your project grow and become something even more? What kind of skills,
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+  <br>For example: [Bicycle by Kimberly Hobson Published: Aug 27, 2024 https://https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html
+File:.Bicycle by Kimberly Hobson Published: Aug 27, 2024#filelinks) / [CC BY 2.0[]()](https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html)
 * etc

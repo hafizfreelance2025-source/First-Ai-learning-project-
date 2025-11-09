@@ -28,7 +28,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![bicycle ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVT73k7QxOEVBIm8uWAuF-FHLu8DqVfUj8n25BC_6ZEb3BUQC_OXU8po&s=10)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVT73k7QxOEVBIm8uWAuF-FHLu8DqVfUj8n25BC_6ZEb3BUQC_OXU8po&s=10 width="300">
 
 This is how you create code examples:
 ```

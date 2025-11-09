@@ -23,6 +23,17 @@ This is how you make a list, if you need one:
 
 Bikes, races, mud and madness: that’s cyclocross racing. Learn about the sport, its roots, training strategies and pro tips from Canyon athletes to ride like a champion. 
 
+What is cyclocross racing?
+
+Cyclocross – shortened to CX or cross – is an offroad form of bike racing, often described as a mix of road cycling, mountain biking and steeplechase.  
+
+The sport sees participants take on a closed-circuit mixed terrain course, typically 1-3km long, in a race that lasts 30 minutes to an hour. 
+
+Cyclocross races emphasise high-intensity effort and skills beyond simple bike handling. With their sharp turns, hurdles, tree roots and obstacles, multi-terrain course conditions force riders to dismount and carry their bikes on hill climbs and wooded trails.  
+
+Adding to the challenge, races generally take place in autumn or winter—strong winds, rainfall and muddy courses are all part of the fun! 
+
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![bicycle ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVT73k7QxOEVBIm8uWAuF-FHLu8DqVfUj8n25BC_6ZEb3BUQC_OXU8po&s=10)
@@ -66,6 +77,6 @@ How could your project grow and become something even more? What kind of skills,
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Bicycle by Kimberly Hobson Published: Aug 27, 2024 https://https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html
+  <br>: [Bicycle by Kimberly Hobson Published: Aug 27, 2024 https://https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html
 File:.Bicycle by Kimberly Hobson Published: Aug 27, 2024#filelinks) / [CC BY 2.0[]()](https://www.canyon.com/en-my/blog-content/gravel-bike-news/cyclocross-guide/b27082024.html)
 * etc
